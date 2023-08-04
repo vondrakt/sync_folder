@@ -97,7 +97,7 @@ while 1:
             out_log.write(message)
 
     # The replica df is updated to match the source df, as these folders are now identical.
-    df_replica = df_source
+    df_replica = make_df(options.replica)
     # Wait for the next sync, for period p.
     time.sleep(int(options.period))
 
