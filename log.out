@@ -1,0 +1,18 @@
+Sync at 2023-08-05 10:08:52.533011.
+Copying test_01 from ./source/ to ./replica/.
+Copying test_folder from ./source/ to ./replica/.
+Deleting delete_this from ./replica/.
+Sync at 2023-08-05 10:09:22.568587.
+Copying test_04 from ./source/ to ./replica/.
+Copying test_02 from ./source/ to ./replica/.
+Copying test_03 from ./source/ to ./replica/.
+Deleting delete_this_02 from ./replica/.
+Sync at 2023-08-05 10:09:52.606855.
+Copying test_04 from ./source/ to ./replica/.
+Sync at 2023-08-05 10:10:22.644614.
+Sync at 2023-08-05 10:10:52.679945.
+Copying test_folder from ./source/ to ./replica/.
+Sync at 2023-08-05 10:11:22.690711.
+Copying test_02 from ./source/ to ./replica/.
+Copying test_03 from ./source/ to ./replica/.
+Deleting delete from ./replica/.
